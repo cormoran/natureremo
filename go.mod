@@ -1,3 +1,3 @@
-module github.com/tenntenn/natureremo
+module github.com/cormoran/natureremo
 
 go 1.16
